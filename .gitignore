@@ -1,0 +1,43 @@
+# Комментарии начинаются с символа #
+
+# 1. Зависимости
+# Игнорируем папки, созданные менеджерами пакетов
+/node_modules
+/vendor
+/packages
+
+# 2. Скомпилированный код и сборки
+/build
+/dist
+/bin
+/out
+*.class
+*.o
+
+# 3. Логи и временные файлы
+*.log
+*.tmp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 4. Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# 5. Файлы IDE
+# JetBrains
+.idea/
+# Visual Studio
+*.suo
+*.user
+# VS Code (игнорируем все, кроме полезных для команды файлов)
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# 6. Конфиденциальные данные
+.env
+.env.local
+.env.*.local
