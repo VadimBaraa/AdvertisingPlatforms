@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvertisingPlatforms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22928822eac26428d6a1f1345aa89fbc7215fd24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed85f117cef343a0969e4bcd55bbb23dd46ab8e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvertisingPlatforms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvertisingPlatforms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
