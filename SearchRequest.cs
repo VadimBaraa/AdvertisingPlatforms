@@ -1,0 +1,1 @@
+public record SearchRequest(string Location);
